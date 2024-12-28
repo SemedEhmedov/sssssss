@@ -15,10 +15,10 @@ namespace DAL.Repositories.Interfaces
         public Task<Product> GetbyId(int id);
         public IQueryable<Product> GetAll();
         public IQueryable<Product> FindAll(Expression<Func<Product, bool>> expression);
-        public Task<Product> Create(Product entity);
-        public void Update(Product entity);
-        public void Delete(Product entity);
-        public void SoftDelete(Product entity);
+        public Task<Product> Create(Product products);
+        public void Update(Product products);
+        public void Delete(Product products);
+        public void SoftDelete(Product products);
         public Task<int> SaveChangesAsync();
         public Task<bool> IsExsist(Expression<Func<Product, bool>> expression);
     }

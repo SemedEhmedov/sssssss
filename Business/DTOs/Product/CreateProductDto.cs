@@ -11,6 +11,8 @@ namespace Business.DTOs.Product
     {
         public string Name { get; set; }
         public double Price { get; set; }
+        public int? CategoryId { get; set; }
+        public List<int>? TagIds { get; set; }
     }
     public class CreateProductDtoValidator : AbstractValidator<CreateProductDto>
     {

@@ -22,15 +22,15 @@ namespace DAL.Repositories.Implementations
 
         public DbSet<Product> Table => _context.Set<Product>();
 
-        public async Task<Product> Create(Product entity)
+        public async Task<Product> Create(Product products)
         {
-            await Table.AddAsync(entity);
-            return entity;
+            await Table.AddAsync(products);
+            return products;
         }
 
-        public void Delete(Product entity)
+        public void Delete(Product products)
         {
-            Table.Remove(entity);
+            Table.Remove(products);
         }
 
         public IQueryable<Product> FindAll(Expression<Func<Product, bool>> expression)
@@ -54,19 +54,19 @@ namespace DAL.Repositories.Implementations
             return await _context.SaveChangesAsync();
         }
 
-        public void Update(Product entity)
+        public void Update(Product products)
         {
-            Table.Update(entity);
+            Table.Update(products);
         }
         public async Task<bool> IsExsist(Expression<Func<Product, bool>> expression)
         {
             return await Table.AnyAsync(expression);
         }
 
-        public void SoftDelete(Product entity)
+        public void SoftDelete(Product products)
         {
-            entity.IsDeleted = true;
-            Table.Update(entity);
+            products.IsDeleted = true;
+            Table.Update(products);
         }
     }
 }

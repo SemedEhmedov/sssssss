@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z1eqJwSbNNw=",
+  "dgSpecHash": "W5JL492tkcU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\I Novbe\\Desktop\\App\\WebApp.API\\WebApp.API.csproj",
+  "projectFilePath": "C:\\Users\\I Novbe\\Desktop\\sssssss\\WebApp.API\\WebApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\I Novbe\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\I Novbe\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

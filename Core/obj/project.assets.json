@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\I Novbe\\Desktop\\App\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\I Novbe\\Desktop\\App\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\I Novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\I Novbe\\Desktop\\App\\Core\\obj\\",
+      "outputPath": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6czyZuXKJnY=",
+  "dgSpecHash": "AVmooDfxlaE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\I Novbe\\Desktop\\App\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\I Novbe\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\I Novbe\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

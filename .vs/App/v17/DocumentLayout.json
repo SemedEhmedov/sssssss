@@ -1,0 +1,511 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\sssssss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\sssssss\\business\\services\\implementations\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\services\\implementations\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\sssssss\\business\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\sssssss\\business\\services\\interfaces\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\services\\interfaces\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\sssssss\\business\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\sssssss\\dal\\repositories\\implementations\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\implementations\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\sssssss\\dal\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\sssssss\\dal\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\sssssss\\dal\\repositories\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\sssssss\\dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\sssssss\\dal\\configurations\\productconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\configurations\\productconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\sssssss\\dal\\dalserviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\dalserviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|c:\\users\\i novbe\\desktop\\sssssss\\webapp.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\sssssss\\business\\dtos\\tag\\getalltagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\tag\\getalltagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\sssssss\\business\\dtos\\tag\\gettagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\tag\\gettagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\sssssss\\business\\dtos\\tag\\updatetagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\tag\\updatetagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\sssssss\\business\\dtos\\tag\\createtagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\tag\\createtagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\sssssss\\business\\dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\sssssss\\business\\dtos\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|c:\\users\\i novbe\\desktop\\sssssss\\core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|solutionrelative:core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|c:\\users\\i novbe\\desktop\\sssssss\\core\\entities\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|solutionrelative:core\\entities\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|c:\\users\\i novbe\\desktop\\sssssss\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|solutionrelative:core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|c:\\users\\i novbe\\desktop\\sssssss\\webapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|c:\\users\\i novbe\\desktop\\sssssss\\webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|c:\\users\\i novbe\\desktop\\sssssss\\webapp.api\\webapp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\webapp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\sssssss\\business\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\sssssss\\business\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|c:\\users\\i novbe\\desktop\\sssssss\\core\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|solutionrelative:core\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\sssssss\\business\\dtos\\product\\getallproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\product\\getallproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\sssssss\\business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\sssssss\\dal\\migrations\\20241228090013_ss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20241228090013_ss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\Services\\Interfaces\\ITagService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Interfaces\\ITagService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\Services\\Interfaces\\ITagService.cs",
+              "RelativeToolTip": "Business\\Services\\Interfaces\\ITagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:35:50.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\Services\\Implementations\\TagService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Implementations\\TagService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\Services\\Implementations\\TagService.cs",
+              "RelativeToolTip": "Business\\Services\\Implementations\\TagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:35:26.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Implementations\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:27:37.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:26:52.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\Repositories\\Interfaces\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\Repositories\\Interfaces\\ITagRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\ITagRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:26:51.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\Repositories\\Implementations\\TagRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Implementations\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\Repositories\\Implementations\\TagRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Implementations\\TagRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:26:21.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateTagDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Tag\\CreateTagDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Tag\\CreateTagDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Tag\\CreateTagDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Tag\\CreateTagDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:02:10.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Business\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:01:32.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "Business\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:01:18.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DALServiceRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\DALServiceRegistrations.cs",
+              "RelativeDocumentMoniker": "DAL\\DALServiceRegistrations.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\DALServiceRegistrations.cs",
+              "RelativeToolTip": "DAL\\DALServiceRegistrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:58:52.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\Context\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Context\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\Context\\AppDBContext.cs",
+              "RelativeToolTip": "DAL\\Context\\AppDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:57:43.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductConfigration.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\Configurations\\ProductConfigration.cs",
+              "RelativeDocumentMoniker": "DAL\\Configurations\\ProductConfigration.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\Configurations\\ProductConfigration.cs",
+              "RelativeToolTip": "DAL\\Configurations\\ProductConfigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:00:40.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateTagDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Tag\\UpdateTagDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Tag\\UpdateTagDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Tag\\UpdateTagDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Tag\\UpdateTagDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:02:23.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetTagDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Tag\\GetTagDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Tag\\GetTagDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Tag\\GetTagDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Tag\\GetTagDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:02:35.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllTagDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Tag\\GetAllTagDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Tag\\GetAllTagDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Tag\\GetAllTagDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Tag\\GetAllTagDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:02:56.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241228090013_ss.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\Migrations\\20241228090013_ss.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20241228090013_ss.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\DAL\\Migrations\\20241228090013_ss.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20241228090013_ss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:00:13.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\WebApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\WebApp.API\\appsettings.json",
+              "RelativeToolTip": "WebApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T08:58:58.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WebApp.API",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\WebApp.API\\WebApp.API.csproj",
+              "RelativeDocumentMoniker": "WebApp.API\\WebApp.API.csproj",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\WebApp.API\\WebApp.API.csproj",
+              "RelativeToolTip": "WebApp.API\\WebApp.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T08:58:52.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\WebApp.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\WebApp.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApp.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwEUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:57:15.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductTag.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Core\\Entities\\ProductTag.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ProductTag.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Core\\Entities\\ProductTag.cs",
+              "RelativeToolTip": "Core\\Entities\\ProductTag.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vwkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:56:20.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vw4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:56:11.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Product\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Product\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Product\\UpdateProductDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Product\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:55:08.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Product\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Product\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Product\\CreateProductDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Product\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:55:06.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServiceRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\ServiceRegistrations.cs",
+              "RelativeDocumentMoniker": "Business\\ServiceRegistrations.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\ServiceRegistrations.cs",
+              "RelativeToolTip": "Business\\ServiceRegistrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:57:34.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Core\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Core\\Entities\\Tag.cs",
+              "RelativeToolTip": "Core\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:56:23.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Product\\GetProductDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Product\\GetProductDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Product\\GetProductDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Product\\GetProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:55:55.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Core\\Entities\\Category.cs",
+              "RelativeToolTip": "Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:55:12.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetAllProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Product\\GetAllProductDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Product\\GetAllProductDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\DTOs\\Product\\GetAllProductDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Product\\GetAllProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:55:07.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\WebApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\WebApp.API\\Program.cs",
+              "RelativeToolTip": "WebApp.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:53:59.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\sssssss\\Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeToolTip": "Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:56:07.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -53,7 +53,7 @@ namespace WebApp.API.Controllers
                 throw new Exception(ex.Message);
             }
         }
-        [HttpDelete("{action}")]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
             try
@@ -67,7 +67,7 @@ namespace WebApp.API.Controllers
             }
         }
 
-        [HttpDelete("{action}")]
+        [HttpDelete]
         public async Task<IActionResult> SoftDelete(int id)
         {
             try
